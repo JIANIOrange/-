@@ -1,0 +1,21 @@
+.detailBox {
+    width: 100%;
+    height: 100%;
+}
+
+.detailBox__head {
+    font-size: 36px;
+    text-align: center;
+    height: 120px;
+    line-height: 120px;
+}
+
+table {
+    width: 800px;
+    margin: 0 auto;
+}
+
+table th {
+    font-size: 22px;
+    line-height: 40px;
+}
